@@ -27,5 +27,8 @@
   "homepage": "https://github.com/Factisio/factis-store-identity#readme",
   "devDependencies": {
     "jest-cli": "^0.4.13"
+  },
+  "jest" : {
+    "collectCoverage":"true"
   }
 }
